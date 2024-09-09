@@ -1,6 +1,6 @@
 <img align='right' src="https://lanyard-profile-readme.vercel.app/api/673477059904929802?bg=00000000">
 
-### <img src='https://media.discordapp.net/attachments/776221267690913802/1275149320617988171/lvCagLW.png?ex=66c4d6d9&is=66c38559&hm=ed62e366100e9eff209633f9e71d9b6e131fc9824978aae694b23be85489d789&=&format=webp&quality=lossless&width=372&height=93'>
+### <img src='https://cdn.discordapp.com/attachments/776221267690913802/1275149320617988171/lvCagLW.png?ex=66dfdd99&is=66de8c19&hm=01c1ab2dfeef7b572e352755a0a176fce609fba7dee9f9800e82c1023bcc09da&'>
 
 I'm kihtyn, a 17 year old Software Developer and interface designer from the United Kingdom - I've always been fascinated by the idea of creating things, whether that be through code, music, or art.
 
