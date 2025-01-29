@@ -4,7 +4,7 @@
 
 I'm uhwc, a 17 year old software developer and interface designer from the United Kingdom - i've always been fascinated by the idea of creating things, whether that be through code, music, or art.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuhwc&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://kiht.sh)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuhwc&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://kie.ac)
 
 <a href="https://kie.ac/" target="_blank">
   <img align="left" width="22px" alt="Web" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png"/>
