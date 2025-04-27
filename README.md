@@ -2,7 +2,7 @@
 
 ### Hey, I'm how2listen 👋
 
-I'm how2listen, a 17 year old software developer and interface designer from the United Kingdom - i've always been fascinated by the idea of creating things, whether that be through code, music, or art.
+I'm how2listen, an 18 year old software developer and interface designer from the United Kingdom - i've always been fascinated by the idea of creating things, whether that be through code, music, or art.
 
 <a href="https://kie.ac/" target="_blank">
   <img align="left" width="22px" alt="Web" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Chain_link_icon_slanted.png"/>
