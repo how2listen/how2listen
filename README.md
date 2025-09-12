@@ -1,1 +1,1 @@
-🪐 <a href="https://kie.ac">kie.ac</a>, <a href="https://discord.com/users/673477059904929802">@uhkies</a>
+🪐 <a href="https://kie.ac">kie.ac</a>, <a href="https://discord.com/users/673477059904929802">@purplates</a>
